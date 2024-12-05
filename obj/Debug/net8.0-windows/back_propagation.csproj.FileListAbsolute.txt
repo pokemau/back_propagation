@@ -1,0 +1,16 @@
+C:\Code\back_propagation\back_propagation\bin\Debug\net8.0-windows\back_propagation.exe
+C:\Code\back_propagation\back_propagation\bin\Debug\net8.0-windows\back_propagation.deps.json
+C:\Code\back_propagation\back_propagation\bin\Debug\net8.0-windows\back_propagation.runtimeconfig.json
+C:\Code\back_propagation\back_propagation\bin\Debug\net8.0-windows\back_propagation.dll
+C:\Code\back_propagation\back_propagation\bin\Debug\net8.0-windows\back_propagation.pdb
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.Form1.resources
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.csproj.GenerateResource.cache
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.AssemblyInfoInputs.cache
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.AssemblyInfo.cs
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.csproj.CoreCompileInputs.cache
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.dll
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\refint\back_propagation.dll
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.pdb
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\back_propagation.genruntimeconfig.cache
+C:\Code\back_propagation\back_propagation\obj\Debug\net8.0-windows\ref\back_propagation.dll
